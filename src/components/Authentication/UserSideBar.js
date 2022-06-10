@@ -147,6 +147,7 @@ export default function UserSidebar() {
                                     src={user.photoURL}
                                     alt={user.displayName || user.email}
                                 />
+
                                 <span
                                     style={{
                                         width: "100%",
